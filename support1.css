@@ -83,6 +83,7 @@ img {
   text-align: center;
   background-position: center;
   background-size: cover;
+  background-color: #706a6a;
   justify-content: space-around;
   height: 40vh;
   color: white;
@@ -90,6 +91,12 @@ img {
 }
 main {
   text-align: center;
+}
+main a {
+  color: white;
+}
+main a:hover {
+  color: aqua;
 }
 .getinvolvedtext {
   padding: 20px;
@@ -133,6 +140,15 @@ main {
   background: white;
 }
 
+footer {
+  margin-top: auto;
+  background: #005956;
+  width: 100%;
+  padding: 40px;
+  color: white;
+  text-align: left;
+}
+
 input[type="text"],
 select,
 textarea {
@@ -149,11 +165,10 @@ label {
   display: inline-block;
 }
 
-/* Style the submit button */
-input[type="submit"] {
+/* Style the button */
+.bttn1 {
   background-color: palevioletred;
-  color: white;
-  padding: 12px 20px;
+  padding: 10px 18px;
   border: none;
   border-radius: 4px;
   cursor: pointer;
@@ -172,6 +187,12 @@ input[type="submit"] {
   width: 25%;
   margin-top: 6px;
 }
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  clear: both;
+  display: table;
+}
 
 /* Floating column for inputs: 75% width */
 .col-75 {
@@ -180,14 +201,7 @@ input[type="submit"] {
   margin-top: 6px;
 }
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+/* making the forum resposif */
 @media screen and (max-width: 600px) {
   .col-25,
   .col-75,

@@ -27,10 +27,10 @@ body {
   display: block;
   color: #f2f2f2;
   text-align: center;
+  font-family: "Yatra One", cursive;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  font-family: "Yatra One", cursive;
 }
 
 .topnav a:hover {
@@ -52,8 +52,8 @@ body {
     display: none;
   }
   .topnav a.icon {
-    float: right;
     display: block;
+    float: right;
   }
 }
 
@@ -68,11 +68,11 @@ body {
   }
   .topnav.responsive a {
     float: none;
-    display: block;
     text-align: left;
+    display: block;
   }
 }
-
+/* main */
 main {
   margin: auto;
 }
@@ -104,6 +104,7 @@ a {
 .maintextflex {
   display: flex;
 }
+/* after the main img*/
 .undermain {
   color: white;
   background-blend-mode: multiply;
@@ -120,6 +121,7 @@ a {
   padding: 10px;
   color: rgba(186, 108, 186, 0.853);
 }
+/* kids section*/
 
 .imgageskids {
   display: flex;
@@ -150,7 +152,6 @@ a {
   max-width: 300px;
   background: rgb(200, 235, 232);
   padding: 7px;
-  text-decoration: underline;
 }
 .img3,
 .img4,
@@ -228,17 +229,31 @@ a {
   flex: 0.35;
 }
 
-.btn2 {
-  padding: 4px;
-  background: beige;
-  color: black;
+.bttn1 {
+  background-color: palevioletred;
+  padding: 10px 18px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: right;
 }
+
 main a:hover {
   color: lightcoral;
 }
 
 footer {
   margin-top: auto;
-  padding: 40px;
   background: #005956;
+  width: 100%;
+  padding: 40px;
+  color: white;
+}
+@media screen and (max-width: 600px) {
+  .undermain a {
+    font-size: 10px;
+  }
+  i {
+    font-size: 9px;
+  }
 }
