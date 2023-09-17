@@ -108,7 +108,7 @@ main a:hover {
   max-width: 600px;
   padding: 10px;
   text-decoration: dotted;
-  color: palevioletred;
+  color: rgb(151, 5, 151);
   margin: auto;
   font-size: 16px;
 }
@@ -168,6 +168,7 @@ label {
 /* Style the button */
 .bttn1 {
   background-color: palevioletred;
+
   padding: 10px 18px;
   border: none;
   border-radius: 4px;
@@ -179,6 +180,7 @@ label {
 .container {
   background-color: #005956;
   padding: 30px;
+  color: white;
 }
 
 /* Floating column for labels: 25% width */

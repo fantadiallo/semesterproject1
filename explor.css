@@ -12,6 +12,7 @@ body {
   font-family: "Yatra One", cursive;
 
   min-height: 100vh;
+
   background: rgb(185, 214, 225);
   color: black;
 }
@@ -99,7 +100,7 @@ a {
   color: white;
 }
 .main1container a {
-  color: rgb(241, 170, 232);
+  color: lightpink;
 }
 .maintextflex {
   display: flex;
@@ -119,7 +120,7 @@ a {
 .overtext {
   text-align: center;
   padding: 10px;
-  color: rgba(186, 108, 186, 0.853);
+  color: darkmagenta;
 }
 /* kids section*/
 
@@ -153,10 +154,10 @@ a {
   background: rgb(200, 235, 232);
   padding: 7px;
 }
-.img3,
-.img4,
+.img3 a,
+.img4 a,
 .img5 a {
-  color: #005956;
+  color: darkmagenta;
 }
 
 /*theachercontainer*/
@@ -202,7 +203,7 @@ a {
   color: black;
   padding: 20px;
 }
-.loadmore a,
+
 .btn2 a {
   color: black;
 }
@@ -230,7 +231,7 @@ a {
 }
 
 .bttn1 {
-  background-color: palevioletred;
+  background-color: #005956;
   padding: 10px 18px;
   border: none;
   border-radius: 4px;
@@ -243,9 +244,9 @@ main a:hover {
 }
 
 footer {
-  margin-top: auto;
   background: #005956;
   width: 100%;
+  bottom: 0;
   padding: 40px;
   color: white;
 }
