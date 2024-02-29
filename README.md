@@ -1,25 +1,25 @@
-# Your project title
+#Semester project
 
 ![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
 
-A simple overview of the use/purpose of the project.
+A new interactive science museum, the Community Science Museum, is set to open in our town/city. It aims to engage primary and middle school children (ages 7-15) and families with young children. The museum seeks a website that is informative and appealing, targeting middle school pupils and their parents. The site should be designed to attract youngsters without underestimating their intelligence. It should provide engaging content to encourage visits to the museum. The website must also be responsive, ensuring ease of use across various devices. Media assets including text and images are provided for creative implementation.
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
 
-You can add some bullet points if you'd like to:
+The semester project aims to demonstrate students' creative and technical competencies acquired during the first semester. This encompasses proficiency in design principles, project management, communication technology, and HTML/CSS development.
 
-- List item 1
-- List item 2
-- List item 3
+-. Home
+2. About Us
+3. Exhibits
+4. Events
+5. Education Programs
+6. Contact Us
 
 ## Built With
 
-You can list a the tech stack that you've used over here
+html/ css/ figma
 
-- [React.js](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com)
 
 ## Getting Started
 
