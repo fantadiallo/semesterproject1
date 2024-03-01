@@ -1,62 +1,46 @@
-#Semester project
+# Community Science Museum Website Project
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
-
-A new interactive science museum, the Community Science Museum, is set to open in our town/city. It aims to engage primary and middle school children (ages 7-15) and families with young children. The museum seeks a website that is informative and appealing, targeting middle school pupils and their parents. The site should be designed to attract youngsters without underestimating their intelligence. It should provide engaging content to encourage visits to the museum. The website must also be responsive, ensuring ease of use across various devices. Media assets including text and images are provided for creative implementation.
+![Community Science Museum](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
 
 ## Description
+The Community Science Museum website project aims to create an interactive and engaging online platform to attract primary and middle school children (ages 7-15) and families with young children to visit the museum. This project is a culmination of creative and technical knowledge acquired during the first semester curriculum, focusing on design principles, project management, communication technology, and development with HTML/CSS.
 
-
-The semester project aims to demonstrate students' creative and technical competencies acquired during the first semester. This encompasses proficiency in design principles, project management, communication technology, and HTML/CSS development.
-
--. Home
-2. About Us
-3. Exhibits
-4. Events
-5. Education Programs
-6. Contact Us
+## Pages
+1. **Home**: Provides an overview of the museum and its attractions.
+2. **About Us**: Offers information about the museum's mission, history, and team.
+3. **Exhibits**: Details various exhibits available at the museum.
+4. **Events**: Highlights upcoming events and activities.
+5. **Education Programs**: Provides details about educational programs offered by the museum.
+6. **Contact Us**: Provides contact details and a form for inquiries.
 
 ## Built With
-
-html/ css/ figma
-
+HTML, CSS, Figma
 
 ## Getting Started
+### Installation
+1. Clone the repository:
 
-### Installing
+    ```bash
+    git clone git@github.com:fantadiallo/semesterproject1.git
+    ```
 
-1. Clone the repo:
-
-```bash
-git clone git@github.com:gh repo clone fantadiallo/semesterproject1
-```
-
-2. Install the dependencies:
-
-```
-npm install
-```
+2. Install the dependencies (none required for this project).
 
 ### Running
-
-
+Open the HTML files in your preferred web browser.
 
 ## Contributing
-
+Contributions to this project are not accepted as it's a student's semester project.
 
 ## Contact
-
-
-
-## License
-
-
-## Acknowledgments
-
-
+For any inquiries or feedback, please contact [Your Name] at [your.email@example.com].
 
 ## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details.
 
 ## Acknowledgments
+[Insert any acknowledgments or credits here.]
+
+
+
+
