@@ -1,6 +1,5 @@
 # Community Science Museum Website Project
 
-![Community Science Museum](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
 
 ## Description
 The Community Science Museum website project aims to create an interactive and engaging online platform to attract primary and middle school children (ages 7-15) and families with young children to visit the museum. This project is a culmination of creative and technical knowledge acquired during the first semester curriculum, focusing on design principles, project management, communication technology, and development with HTML/CSS.
